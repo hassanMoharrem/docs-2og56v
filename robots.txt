@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-wdbb0m.originmovement.co.nz/sitemap.xml
